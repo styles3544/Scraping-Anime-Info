@@ -91,13 +91,16 @@ api_key = 'YOUR_ACCESS_TOKEN'
 ## More Possibilities
 
 You can add as many features you want to the program. For example I added a custom search feature to it the [Custom Search Feature](#Custom-Search-Feature) section.
+
+
 You can also add feature like:
-    + Season Info
-    + When is the next episode of any particular anime is coming?
-    + Next episode synopsis
-    + Airing or Completed/Finished
-    + What are the Genres of any anime?
-    + And many more.....
+   + Season Info
+   + When is the next episode of any particular anime is coming?
+   + Next episode synopsis
+   + Airing or Completed/Finished
+   + What are the Genres of any anime?
+   + And many more.....
+
 
 > You can also host your python code online on [wayScript](https://wayscript.com/) and schedule it there so that it'll run automatically and keep yourself updated 
 
@@ -118,11 +121,11 @@ I've provided the code for above in Script2 ( with custom search option ) folder
 
 ## References
 
-1. ![pushbullet Docs](https://docs.pushbullet.com/)
+1. [pushbullet Docs](https://pypi.org/project/pushbullet.py/0.9.1/)
 
-2. ![selenium Docs](https://selenium-python.readthedocs.io/getting-started.html)
+2. [selenium Docs](https://selenium-python.readthedocs.io/getting-started.html)
 
-3. ![How to use selenium](https://www.edureka.co/blog/selenium-using-python/)
+3. [How to use selenium](https://www.edureka.co/blog/selenium-using-python/)
 
 
 ## Authors
