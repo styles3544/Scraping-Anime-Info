@@ -1,4 +1,4 @@
-# Web Automation Project
+# How to Setup This Web Automation Project
 
 > Getting real time anime info and updates sent directly to your smartphone
 
